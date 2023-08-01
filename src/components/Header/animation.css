@@ -1,0 +1,31 @@
+.slideInLeft {
+  animation-name: slideInLeft;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(180%);
+    visibility: visible;
+  }
+  100% {
+    transform: translateX(3px);
+  }
+}
+
+.slideInRight {
+  animation-name: slideInRight;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+@keyframes slideInRight {
+  0% {
+    transform: translateX(3px);
+    visibility: visible;
+  }
+  100% {
+    transform: translateX(180%);
+  }
+}
