@@ -31,8 +31,6 @@ Users should be able to:
 - Solution URL: [social-media-dashboard](https://www.frontendmentor.io/solutions/themeswitcher-created-with-react-typescript-styledcomponents-0rpdFxJrhv)
 - Live Site URL: [social-media-dashboard](https://social-media-dashboard-artur-rezende.netlify.app/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
